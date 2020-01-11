@@ -11,6 +11,7 @@ export default class Aboutus extends React.Component {
                 <Slider  />
                 <br/>
                <h1>About us</h1>
+               <h1>Heerji Sodha </h1>
                 <FooterPagePro/>
             </div>
         )
